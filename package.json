@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlgaGutsuliuk/noda_hw1.git"
+    "url": "git+https://github.com/teobog/node_homework_goit.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OlgaGutsuliuk/noda_hw1/issues"
+    "url": "https://github.com/teobog/node_homework_goit"
   },
-  "homepage": "https://github.com/OlgaGutsuliuk/noda_hw1#readme",
+  "homepage": "https://github.com/teobog/node_homework_goit",
   "dependencies": {
     "nodemon": "^2.0.7",
     "yargs": "^17.0.1"

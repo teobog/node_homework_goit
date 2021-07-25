@@ -8,7 +8,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "repository": { 
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/teobog/node_homework_goit.git"
   },
